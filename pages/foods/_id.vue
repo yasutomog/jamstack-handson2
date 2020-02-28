@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>フード</h2>
+    <h2>フードhogehoge</h2>
     <v-data-table
       :headers="headers"
       :items="items"
